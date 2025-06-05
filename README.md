@@ -28,10 +28,9 @@ This project compiles online resources such as government databases, judicial po
 - [Nicaragua](#nicaragua)
 - [Dominican Republic](#dominican-republic)
 
-
 ---
 
-## 🇪🇨 Ecuador
+## <span id="ecuador">🇪🇨 Ecuador</span>
 
 - [Superintendencia de Compañías – Sector Societario](https://appscvsmovil.supercias.gob.ec/PortalInformacion/sector_societario.html)  
   Company information, legal representatives.
@@ -50,9 +49,11 @@ This project compiles online resources such as government databases, judicial po
 - [ATM Guayaquil – Consulta Cliente](https://consultas.atm.gob.ec/PortalWEB/paginas/clientes/clp_criterio_consulta.jsp)  
   Vehicle and transport-related data.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇦🇷 Argentina
+## <span id="argentina">🇦🇷 Argentina</span>
 
 - [AFIP – CUIT Verification](https://www.afip.gob.ar/)  
   Verify taxpayer numbers.
@@ -63,9 +64,11 @@ This project compiles online resources such as government databases, judicial po
 - [DNRPA – Vehicle Registry](https://www.dnrpa.gov.ar/)  
   Car ownership records.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇧🇷 Brazil
+## <span id="brazil">🇧🇷 Brazil</span>
 
 - [Receita Federal](https://www.gov.br/receitafederal/pt-br)  
   Corporate taxpayer status.
@@ -76,9 +79,11 @@ This project compiles online resources such as government databases, judicial po
 - [DENATRAN](https://www.gov.br/infraestrutura/pt-br/assuntos/transito)  
   Vehicle and driver's license data.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇨🇱 Chile
+## <span id="chile">🇨🇱 Chile</span>
 
 - [SII – Taxpayer Registry](https://www.sii.cl/)  
   Verify company or personal RUT.
@@ -87,9 +92,11 @@ This project compiles online resources such as government databases, judicial po
 - [Registro Civil](https://www.registrocivil.cl/)  
   Identity and vehicle records.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇨🇴 Colombia
+## <span id="colombia">🇨🇴 Colombia</span>
 
 - [RUES – Cámara de Comercio](https://www.rues.org.co/)  
   Business registry per city.
@@ -100,9 +107,11 @@ This project compiles online resources such as government databases, judicial po
 - [RUNT](https://www.runt.com.co/)  
   Vehicle registration and license info.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇵🇪 Peru
+## <span id="peru">🇵🇪 Peru</span>
 
 - [SUNARP](https://www.sunarp.gob.pe/)  
   Company and property records.
@@ -113,9 +122,11 @@ This project compiles online resources such as government databases, judicial po
 - [MTC Licencias](https://licencias.mtc.gob.pe/)  
   Driver license validation.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇧🇴 Bolivia
+## <span id="bolivia">🇧🇴 Bolivia</span>
 
 - [Fundempresa](https://www.fundempresa.org.bo/)  
   Business entity registration.
@@ -124,9 +135,11 @@ This project compiles online resources such as government databases, judicial po
 - [RUAT](https://www.ruat.gob.bo/)  
   Vehicle tax and registration.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇵🇾 Paraguay
+## <span id="paraguay">🇵🇾 Paraguay</span>
 
 - [DGRP](https://www.dgrp.gov.py/)  
   Business and property registries.
@@ -135,9 +148,11 @@ This project compiles online resources such as government databases, judicial po
 - [RUA](https://www.rua.gov.py/)  
   Vehicle registration portal.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇺🇾 Uruguay
+## <span id="uruguay">🇺🇾 Uruguay</span>
 
 - [DGR – Registros Públicos](https://www.dgr.gub.uy/)  
   Property and company records.
@@ -146,9 +161,11 @@ This project compiles online resources such as government databases, judicial po
 - [SUIV – Vehicle Tax](https://www.suiv.gub.uy/)  
   Check car tax and registry.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇻🇪 Venezuela
+## <span id="venezuela">🇻🇪 Venezuela</span>
 
 - [SENIAT](https://declaraciones.seniat.gob.ve/)  
   Taxpayer (RIF) verification.
@@ -157,9 +174,11 @@ This project compiles online resources such as government databases, judicial po
 - [INTT](http://www.intt.gob.ve/)  
   Vehicle and driver info.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇵🇦 Panama
+## <span id="panama">🇵🇦 Panama</span>
 
 - [Registro Público](https://www.rp.gob.pa/)  
   Corporate and property data.
@@ -168,59 +187,73 @@ This project compiles online resources such as government databases, judicial po
 - [ATTT](https://www.transito.gob.pa/)  
   Vehicle license verification.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇨🇷 Costa Rica
+## <span id="costa-rica">🇨🇷 Costa Rica</span>
 
 - [Registro Nacional](https://www.rnpdigital.com/)  
   Vehicle, property, and legal entity data.
 - [Poder Judicial](https://pj.poder-judicial.go.cr/)  
   Judicial case lookup.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇬🇹 Guatemala
+## <span id="guatemala">🇬🇹 Guatemala</span>
 
 - [SAT – RTU](https://portal.sat.gob.gt/)  
   Taxpayer registry.
 - [Organismo Judicial](https://oj.gob.gt/)  
   Case records and notifications.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇸🇻 El Salvador
+## <span id="el-salvador">🇸🇻 El Salvador</span>
 
 - [CNPN](https://www.cnpn.gob.sv/)  
   Company and business records.
 - [CSJ](https://www.csj.gob.sv/)  
   Supreme court cases.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇭🇳 Honduras
+## <span id="honduras">🇭🇳 Honduras</span>
 
 - [SAR](https://www.sar.gob.hn/)  
   Taxpayer registry and RUC.
 - [Poder Judicial](https://www.poderjudicial.gob.hn/)  
   Court and civil case search.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇳🇮 Nicaragua
+## <span id="nicaragua">🇳🇮 Nicaragua</span>
 
 - [DGI – RUC Search](https://dgi.mef.gob.ni/)  
   Taxpayer identification.
 - [Poder Judicial](https://www.poderjudicial.gob.ni/)  
   Legal records and verdicts.
 
+[Back to Top](#country-index)
+
 ---
 
-## 🇩🇴 Dominican Republic
+## <span id="dominican-republic">🇩🇴 Dominican Republic</span>
 
 - [DGII](https://www.dgii.gov.do/)  
   RNC (taxpayer ID) verification.
 - [Poder Judicial](https://www.poderjudicial.gob.do/)  
   Judicial cases lookup.
+
+[Back to Top](#country-index)
 
 ---
 
@@ -234,4 +267,3 @@ Feel free to fork this repo, add the link under the appropriate country section,
 ## 📜 License
 
 This repository is released under the [MIT License](LICENSE).
-
