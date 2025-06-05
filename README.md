@@ -28,6 +28,7 @@ This project compiles online resources such as government databases, judicial po
 - [Nicaragua](#nicaragua)
 - [Dominican Republic](#dominican-republic)
 
+
 ---
 
 ## 🇪🇨 Ecuador
