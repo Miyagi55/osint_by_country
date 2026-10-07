@@ -10,23 +10,27 @@ This project compiles online resources such as government databases, judicial po
 
 ## 📁 Country Index
 
-- [Ecuador](#ecuador)
-- [Argentina](#argentina)
-- [Brazil](#brazil)
-- [Chile](#chile)
-- [Colombia](#colombia)
-- [Peru](#peru)
-- [Bolivia](#bolivia)
-- [Paraguay](#paraguay)
-- [Uruguay](#uruguay)
-- [Venezuela](#venezuela)
-- [Panama](#panama)
-- [Costa Rica](#costa-rica)
-- [Guatemala](#guatemala)
-- [El Salvador](#el-salvador)
-- [Honduras](#honduras)
-- [Nicaragua](#nicaragua)
-- [Dominican Republic](#dominican-republic)
+- [🌐 OSINT Links by Country – Latin America](#-osint-links-by-country--latin-america)
+  - [📁 Country Index](#-country-index)
+  - [🇪🇨 Ecuador](#-ecuador)
+  - [🇦🇷 Argentina](#-argentina)
+  - [🇧🇷 Brazil](#-brazil)
+  - [🇨🇱 Chile](#-chile)
+  - [🇨🇴 Colombia](#-colombia)
+  - [🇵🇪 Peru](#-peru)
+  - [🇧🇴 Bolivia](#-bolivia)
+  - [🇵🇾 Paraguay](#-paraguay)
+  - [🇺🇾 Uruguay](#-uruguay)
+  - [🇻🇪 Venezuela](#-venezuela)
+  - [🇵🇦 Panama](#-panama)
+  - [🇨🇷 Costa Rica](#-costa-rica)
+  - [🇬🇹 Guatemala](#-guatemala)
+  - [🇸🇻 El Salvador](#-el-salvador)
+  - [🇭🇳 Honduras](#-honduras)
+  - [🇳🇮 Nicaragua](#-nicaragua)
+  - [🇩🇴 Dominican Republic](#-dominican-republic)
+  - [🛠 Contributing](#-contributing)
+  - [📜 License](#-license)
 
 ---
 
@@ -106,6 +110,15 @@ This project compiles online resources such as government databases, judicial po
   Judicial case lookup.
 - [RUNT](https://www.runt.com.co/)  
   Vehicle registration and license info.
+
+- [Policia Nacional](https://antecedentes.policia.gov.co:7005/WebJudicial/)
+  Judicial case lookup.
+
+- [Registraduria Nacional](https://wsp.registraduria.gov.co/censo/consultar/)
+  Electoral registry.
+
+- [Rama Judicial](https://procesos.ramajudicial.gov.co/procesoscs/ConsultaJusticias21.aspx?)
+  Judicial case lookup.
 
 [Back to Top](#country-index)
 
